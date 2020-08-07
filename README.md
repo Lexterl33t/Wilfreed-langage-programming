@@ -6,6 +6,8 @@
 vim test.wf
 ```
 
+<img src="https://github.com/0xpFu/Wilfreed-langage-programming/blob/master/Screenshot_2.png">
+
 ```wilfreed
 
 wilstr variableName = "Hello world"
