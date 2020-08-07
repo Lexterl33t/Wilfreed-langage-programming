@@ -6,7 +6,7 @@
 vim test.wf
 ```
 
-<img src="https://github.com/0xpFu/Wilfreed-langage-programming/blob/master/Screenshot_2.png">
+<img src="https://github.com/0xpFu/Wilfreed-langage-programming/blob/master/Screenshot_1.png">
 
 ```wilfreed
 
