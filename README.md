@@ -1,7 +1,10 @@
-
 # Wilfreed langage programming
 
 ### Wilfreed has been developped in ruby to test creation of lexer
+
+```
+vim test.wf
+```
 
 ```wilfreed
 
